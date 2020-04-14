@@ -36,7 +36,7 @@
     <link href="http://yoursite.com/2020/04/13/Nginx%E6%94%BB%E7%95%A5/"/>
     <id>http://yoursite.com/2020/04/13/Nginx%E6%94%BB%E7%95%A5/</id>
     <published>2020-04-13T10:44:00.000Z</published>
-    <updated>2020-04-14T02:03:29.250Z</updated>
+    <updated>2020-04-14T02:16:05.087Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Nginx-攻略"><a href="#Nginx-攻略" class="headerlink" title="Nginx 攻略"></a>Nginx 攻略</h1>]]></content>
     
@@ -49,6 +49,8 @@
     
     </summary>
     
+    
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
     
     
       <category term="中间件" scheme="http://yoursite.com/tags/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
